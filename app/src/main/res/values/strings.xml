@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Truecaller Login</string>
+
+    <string name="partnerKey">wpoKU6bf478e2ba9640c7a365961b2bf4d80f</string>
 </resources>
